@@ -63,8 +63,8 @@ Streamlit – simple web app interface
 
 Clone the repo
 
-git clone https://github.com/<your-username>/pdf-ai-qa.git
-cd pdf-ai-qa
+git clone https://github.com/shreekarangupta/Smart-PDF-Question-Answering-AI
+cd Smart-PDF-Question-Answering-AI
 
 
 Install dependencies
@@ -116,5 +116,6 @@ Feature requests
 UI improvements
 
 📜 License
+
 
 MIT License
